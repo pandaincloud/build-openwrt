@@ -5,7 +5,7 @@
 
 Diy_Core() {
 	Author="281677160"
-	Default_Device="x86-64"
+	Default_Device="hiwifi-ji2"
 	Updete_firmware="generic-squashfs-combined.img.gz"
 	Extension=".img.gz"
 	Source="lean"
